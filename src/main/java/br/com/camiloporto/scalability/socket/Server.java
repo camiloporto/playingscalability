@@ -1,9 +1,6 @@
 package br.com.camiloporto.scalability.socket;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-import java.io.PrintWriter;
+import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
@@ -29,20 +26,21 @@ public class Server implements Runnable {
         try {
             this.serverSocket = new ServerSocket(port);
             Socket clientSocket = this.serverSocket.accept();
-            try {
-                PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
-                out.println("Opa");
-            }
-            finally {
-                clientSocket.close();
-            }
+            RequestHandler requestHandler = new RequestHandler(clientSocket);
+            Thread threadHandler = new Thread(requestHandler);
+            System.out.println("waiting thread handler to handle request...");
+            threadHandler.start();
+            threadHandler.join();
+            System.out.println("request handled. closing socket");
+            clientSocket.close();
         }
         catch (IOException e) {
             e.printStackTrace();
-        }
-        finally {
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } finally {
             try {
-                stop();
+                this.serverSocket.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }

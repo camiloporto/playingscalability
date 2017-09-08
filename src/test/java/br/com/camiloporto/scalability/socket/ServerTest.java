@@ -18,7 +18,9 @@ public class ServerTest {
         //
         Socket clientSocket = new Socket("localhost", 9090);
 
+        PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
         BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
+        out.println("hello!");
         String serverData = in.readLine();
 
         System.out.println(serverData);
