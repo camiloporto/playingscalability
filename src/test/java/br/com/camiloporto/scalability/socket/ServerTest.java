@@ -11,23 +11,52 @@ import java.net.Socket;
 public class ServerTest {
 
     @Test
-    public void shouldAcceptConnections() throws IOException {
+    public void shouldAcceptConnections() throws IOException, InterruptedException {
+        Thread.sleep(60 * 1000);
+
         Server server = new Server(9090);
         Thread serverThread = new Thread(server);
         serverThread.start();
-        //
-        Socket clientSocket = new Socket("localhost", 9090);
+        sendRequest("t1");
+        sendRequest("t4");
+        sendRequest("t1");
+        sendRequest("t3");
+        sendRequest("t2");
+        sendRequest("t4");
+        sendRequest("t1");
+        sendRequest("t3");
+        sendRequest("t4");
+        sendRequest("t1");
 
-        PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
-        BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-        out.println("hello!");
-        String serverData = in.readLine();
+        Thread.sleep(5 * 50 * 1000);
 
-        System.out.println(serverData);
+    }
 
-        clientSocket.close();
+    private void sendRequest(final String taskId) throws IOException {
+        new Thread(
+                new Runnable() {
+                    @Override
+                    public void run() {
+                        Socket clientSocket = null;
+                        try {
+                            clientSocket = new Socket("localhost", 9090);
+                            PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
+                            BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
+                            out.println(taskId);
+                            String serverData = in.readLine();
+                            System.out.println(id() + " " + serverData);
 
-        server.stop();
+                            clientSocket.close();
+                        } catch (IOException e) {
+                            e.printStackTrace();
+                        }
+
+                    }
+                    private long id() {
+                        return Thread.currentThread().getId();
+                    }
+                }
+        ).start();
     }
 
 }

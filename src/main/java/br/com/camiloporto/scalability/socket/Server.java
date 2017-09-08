@@ -11,32 +11,29 @@ public class Server implements Runnable {
 
     private int port;
     private ServerSocket serverSocket;
+    private boolean stop = false;
 
     public Server(int port) {
-
         this.port = port;
     }
 
     public void stop() throws IOException {
-        this.serverSocket.close();
+        System.out.println("stopping server..");
+        stop = true;
     }
 
     @Override
     public void run() {
+        stop = false;
         try {
             this.serverSocket = new ServerSocket(port);
-            Socket clientSocket = this.serverSocket.accept();
-            RequestHandler requestHandler = new RequestHandler(clientSocket);
-            Thread threadHandler = new Thread(requestHandler);
-            System.out.println("waiting thread handler to handle request...");
-            threadHandler.start();
-            threadHandler.join();
-            System.out.println("request handled. closing socket");
-            clientSocket.close();
+            while(!stop) {
+                Socket clientSocket = this.serverSocket.accept();
+                RequestHandler requestHandler = new RequestHandler(clientSocket);
+                new Thread(requestHandler).start();
+            }
         }
         catch (IOException e) {
-            e.printStackTrace();
-        } catch (InterruptedException e) {
             e.printStackTrace();
         } finally {
             try {
