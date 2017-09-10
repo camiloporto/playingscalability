@@ -1,9 +1,6 @@
 package br.com.camiloporto.scalability.socket;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-import java.io.PrintWriter;
+import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
 
@@ -14,35 +11,33 @@ public class Server implements Runnable {
 
     private int port;
     private ServerSocket serverSocket;
+    private boolean stop = false;
 
     public Server(int port) {
-
         this.port = port;
     }
 
     public void stop() throws IOException {
-        this.serverSocket.close();
+        System.out.println("stopping server..");
+        stop = true;
     }
 
     @Override
     public void run() {
+        stop = false;
         try {
             this.serverSocket = new ServerSocket(port);
-            Socket clientSocket = this.serverSocket.accept();
-            try {
-                PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
-                out.println("Opa");
-            }
-            finally {
-                clientSocket.close();
+            while(!stop) {
+                Socket clientSocket = this.serverSocket.accept();
+                RequestHandler requestHandler = new RequestHandler(clientSocket);
+                new Thread(requestHandler).start();
             }
         }
         catch (IOException e) {
             e.printStackTrace();
-        }
-        finally {
+        } finally {
             try {
-                stop();
+                this.serverSocket.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
