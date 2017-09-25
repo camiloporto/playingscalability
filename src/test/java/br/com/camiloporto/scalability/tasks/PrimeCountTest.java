@@ -3,6 +3,8 @@ package br.com.camiloporto.scalability.tasks;
 import org.junit.Assert;
 import org.junit.Test;
 
+import java.util.Date;
+
 /**
  * Created by camiloporto on 9/10/17.
  */

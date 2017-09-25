@@ -1,0 +1,150 @@
+Sep 20, 2017 9:47:48 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-145 | Wed Sep 20 21:47:48 BRT 2017 | request sent
+Sep 20, 2017 9:47:49 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-146 | Wed Sep 20 21:47:49 BRT 2017 | request sent
+Sep 20, 2017 9:47:49 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-147 | Wed Sep 20 21:47:49 BRT 2017 | request sent
+Sep 20, 2017 9:47:50 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-148 | Wed Sep 20 21:47:50 BRT 2017 | request sent
+Sep 20, 2017 9:47:50 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-106 | Wed Sep 20 21:47:50 BRT 2017 | received response: 267838
+Sep 20, 2017 9:47:50 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-149 | Wed Sep 20 21:47:50 BRT 2017 | request sent
+Sep 20, 2017 9:47:51 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-150 | Wed Sep 20 21:47:51 BRT 2017 | request sent
+Sep 20, 2017 9:47:52 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-151 | Wed Sep 20 21:47:52 BRT 2017 | request sent
+Sep 20, 2017 9:47:52 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-107 | Wed Sep 20 21:47:52 BRT 2017 | received response: 257838
+Sep 20, 2017 9:47:52 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-152 | Wed Sep 20 21:47:52 BRT 2017 | request sent
+Sep 20, 2017 9:47:52 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-108 | Wed Sep 20 21:47:52 BRT 2017 | received response: 197838
+Sep 20, 2017 9:47:53 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-153 | Wed Sep 20 21:47:53 BRT 2017 | request sent
+Sep 20, 2017 9:47:53 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-109 | Wed Sep 20 21:47:53 BRT 2017 | received response: 207838
+Sep 20, 2017 9:47:54 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-154 | Wed Sep 20 21:47:54 BRT 2017 | request sent
+Sep 20, 2017 9:47:54 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-110 | Wed Sep 20 21:47:54 BRT 2017 | received response: 277838
+Sep 20, 2017 9:47:54 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-111 | Wed Sep 20 21:47:54 BRT 2017 | received response: 237838
+Sep 20, 2017 9:47:55 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-155 | Wed Sep 20 21:47:55 BRT 2017 | request sent
+Sep 20, 2017 9:47:55 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-156 | Wed Sep 20 21:47:55 BRT 2017 | request sent
+Sep 20, 2017 9:47:55 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-112 | Wed Sep 20 21:47:55 BRT 2017 | received response: 217838
+Sep 20, 2017 9:47:56 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-157 | Wed Sep 20 21:47:56 BRT 2017 | request sent
+Sep 20, 2017 9:47:56 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-113 | Wed Sep 20 21:47:56 BRT 2017 | received response: 227838
+Sep 20, 2017 9:47:56 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-158 | Wed Sep 20 21:47:56 BRT 2017 | request sent
+Sep 20, 2017 9:47:56 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-159 | Wed Sep 20 21:47:56 BRT 2017 | request sent
+Sep 20, 2017 9:47:57 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-114 | Wed Sep 20 21:47:57 BRT 2017 | received response: 247838
+Sep 20, 2017 9:47:57 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-160 | Wed Sep 20 21:47:57 BRT 2017 | request sent
+Sep 20, 2017 9:47:57 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-161 | Wed Sep 20 21:47:57 BRT 2017 | request sent
+Sep 20, 2017 9:47:58 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-162 | Wed Sep 20 21:47:58 BRT 2017 | request sent
+Sep 20, 2017 9:47:59 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-163 | Wed Sep 20 21:47:59 BRT 2017 | request sent
+Sep 20, 2017 9:47:59 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-164 | Wed Sep 20 21:47:59 BRT 2017 | request sent
+Sep 20, 2017 9:48:00 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-115 | Wed Sep 20 21:48:00 BRT 2017 | received response: 267838
+Sep 20, 2017 9:48:00 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-165 | Wed Sep 20 21:48:00 BRT 2017 | request sent
+Sep 20, 2017 9:48:01 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-166 | Wed Sep 20 21:48:01 BRT 2017 | request sent
+Sep 20, 2017 9:48:01 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-116 | Wed Sep 20 21:48:01 BRT 2017 | received response: 257838
+Sep 20, 2017 9:48:01 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-167 | Wed Sep 20 21:48:01 BRT 2017 | request sent
+Sep 20, 2017 9:48:02 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-168 | Wed Sep 20 21:48:02 BRT 2017 | request sent
+Sep 20, 2017 9:48:02 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-117 | Wed Sep 20 21:48:02 BRT 2017 | received response: 197838
+Sep 20, 2017 9:48:02 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-118 | Wed Sep 20 21:48:02 BRT 2017 | received response: 207838
+Sep 20, 2017 9:48:02 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-169 | Wed Sep 20 21:48:02 BRT 2017 | request sent
+Sep 20, 2017 9:48:03 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-119 | Wed Sep 20 21:48:03 BRT 2017 | received response: 277838
+Sep 20, 2017 9:48:03 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-120 | Wed Sep 20 21:48:03 BRT 2017 | received response: 237838
+Sep 20, 2017 9:48:03 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-170 | Wed Sep 20 21:48:03 BRT 2017 | request sent
+Sep 20, 2017 9:48:03 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-171 | Wed Sep 20 21:48:03 BRT 2017 | request sent
+Sep 20, 2017 9:48:04 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-121 | Wed Sep 20 21:48:04 BRT 2017 | received response: 217838
+Sep 20, 2017 9:48:04 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-172 | Wed Sep 20 21:48:04 BRT 2017 | request sent
+Sep 20, 2017 9:48:05 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-173 | Wed Sep 20 21:48:05 BRT 2017 | request sent
+Sep 20, 2017 9:48:05 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-123 | Wed Sep 20 21:48:05 BRT 2017 | received response: 247838
+Sep 20, 2017 9:48:05 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-174 | Wed Sep 20 21:48:05 BRT 2017 | request sent
+Sep 20, 2017 9:48:06 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-122 | Wed Sep 20 21:48:06 BRT 2017 | received response: 227838
+Sep 20, 2017 9:48:06 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-175 | Wed Sep 20 21:48:06 BRT 2017 | request sent
+Sep 20, 2017 9:48:06 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-176 | Wed Sep 20 21:48:06 BRT 2017 | request sent
+Sep 20, 2017 9:48:07 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-177 | Wed Sep 20 21:48:07 BRT 2017 | request sent
+Sep 20, 2017 9:48:08 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-178 | Wed Sep 20 21:48:08 BRT 2017 | request sent
+Sep 20, 2017 9:48:08 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-124 | Wed Sep 20 21:48:08 BRT 2017 | received response: 267838
+Sep 20, 2017 9:48:08 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-179 | Wed Sep 20 21:48:08 BRT 2017 | request sent
+Sep 20, 2017 9:48:09 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-180 | Wed Sep 20 21:48:09 BRT 2017 | request sent
+Sep 20, 2017 9:48:10 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-181 | Wed Sep 20 21:48:10 BRT 2017 | request sent
+Sep 20, 2017 9:48:10 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-125 | Wed Sep 20 21:48:10 BRT 2017 | received response: 257838
+Sep 20, 2017 9:48:10 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-182 | Wed Sep 20 21:48:10 BRT 2017 | request sent
+Sep 20, 2017 9:48:10 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-183 | Wed Sep 20 21:48:10 BRT 2017 | request sent
+Sep 20, 2017 9:48:10 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-126 | Wed Sep 20 21:48:10 BRT 2017 | received response: 197838
+Sep 20, 2017 9:48:11 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-128 | Wed Sep 20 21:48:11 BRT 2017 | received response: 277838
+Sep 20, 2017 9:48:11 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-129 | Wed Sep 20 21:48:11 BRT 2017 | received response: 237838
+Sep 20, 2017 9:48:11 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-184 | Wed Sep 20 21:48:11 BRT 2017 | request sent
+Sep 20, 2017 9:48:11 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-127 | Wed Sep 20 21:48:11 BRT 2017 | received response: 207838
+Sep 20, 2017 9:48:12 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-185 | Wed Sep 20 21:48:12 BRT 2017 | request sent
+Sep 20, 2017 9:48:13 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-186 | Wed Sep 20 21:48:13 BRT 2017 | request sent
+Sep 20, 2017 9:48:13 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-130 | Wed Sep 20 21:48:13 BRT 2017 | received response: 217838
+Sep 20, 2017 9:48:13 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-187 | Wed Sep 20 21:48:13 BRT 2017 | request sent
+Sep 20, 2017 9:48:14 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-131 | Wed Sep 20 21:48:14 BRT 2017 | received response: 247838
+Sep 20, 2017 9:48:14 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-188 | Wed Sep 20 21:48:14 BRT 2017 | request sent
+Sep 20, 2017 9:48:15 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-132 | Wed Sep 20 21:48:15 BRT 2017 | received response: 227838
+Sep 20, 2017 9:48:15 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-189 | Wed Sep 20 21:48:15 BRT 2017 | request sent
+Sep 20, 2017 9:48:16 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-190 | Wed Sep 20 21:48:16 BRT 2017 | request sent
+Sep 20, 2017 9:48:17 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-133 | Wed Sep 20 21:48:17 BRT 2017 | received response: 267838
+Sep 20, 2017 9:48:17 PM br.com.camiloporto.scalability.client.ClientRequest log
+INFO: br.com.camiloporto.scalability.client.ClientRequest | Thread-191 | Wed Sep 20 21:48:17 BRT 2017 | request sent

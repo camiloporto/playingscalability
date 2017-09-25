@@ -33,22 +33,22 @@ public class Server implements Runnable {
     @Override
     public void run() {
         stop = false;
-        ExecutorService threadPool = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors() + 1);
+//        ExecutorService threadPool = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors() + 1);
         try {
             this.serverSocket = new ServerSocket(port);
             while(!stop) {
                 Socket clientSocket = this.serverSocket.accept();
                 RequestHandler requestHandler = new RequestHandler(clientSocket);
                 //FIXME tag two commits with different experiment versions
-//                new Thread(requestHandler).start();
-                threadPool.submit(requestHandler);
+                new Thread(requestHandler).start();
+//                threadPool.submit(requestHandler);
             }
         }
         catch (IOException e) {
             e.printStackTrace();
         } finally {
             try {
-                threadPool.shutdown();
+//                threadPool.shutdown();
                 this.serverSocket.close();
             } catch (IOException e) {
                 e.printStackTrace();
