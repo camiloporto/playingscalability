@@ -72,7 +72,8 @@ public class RequestHandler implements Runnable {
         if(tokens[0].equals("t1")) { //CPU Sample Task
             Long upperBound = Long.parseLong(tokens[1]);
             return new CPUIntensiveTask(upperBound);
-        } else if (tokens[0].equals("t2")) {
+        }
+        else if (tokens[0].equals("t2")) {
             String uri = tokens[1];
             try {
                 return new IOIntensiveTask(new URI(uri));

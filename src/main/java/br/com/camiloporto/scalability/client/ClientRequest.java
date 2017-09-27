@@ -29,12 +29,12 @@ public class ClientRequest implements Runnable {
             PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
             BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 
-//            long t1 = System.currentTimeMillis();
+            long t1 = System.currentTimeMillis();
             log("request sent");
             out.println(taskId);
             String serverData = in.readLine();
-            log("received response: " + serverData);
-//            long t2 = System.currentTimeMillis();
+            long t2 = System.currentTimeMillis();
+            log(String.format("received response |%s", (t2-t1)));
 //            System.err.println(id() + " : received response:\n " + serverData);
 
             //FIXME include timestamp of begin and end of client request. print response time with timestamp...
@@ -52,7 +52,7 @@ public class ClientRequest implements Runnable {
 //                Thread.currentThread().getName(),
 //                System.currentTimeMillis(),
 //                msg));
-        System.out.println(String.format("%s | %s | %tc | %s",
+        System.out.println(String.format("%s|%s|%tc|%s",
                 ClientRequest.class.getName(),
                 Thread.currentThread().getName(),
                 System.currentTimeMillis(),

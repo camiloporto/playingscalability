@@ -1,0 +1,737 @@
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-0|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-1|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-2|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-3|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-4|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-5|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-6|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-7|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-8|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-9|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-10|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-11|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-0|Mon Sep 25 21:44:20 BRT 2017|received response |780
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-12|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-1|Mon Sep 25 21:44:20 BRT 2017|received response |860
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-13|Mon Sep 25 21:44:20 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-14|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-15|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-2|Mon Sep 25 21:44:21 BRT 2017|received response |886
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-16|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-3|Mon Sep 25 21:44:21 BRT 2017|received response |934
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-17|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-18|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-4|Mon Sep 25 21:44:21 BRT 2017|received response |964
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-19|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-5|Mon Sep 25 21:44:21 BRT 2017|received response |1013
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-20|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-21|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-22|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-6|Mon Sep 25 21:44:21 BRT 2017|received response |1190
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-23|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-24|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-7|Mon Sep 25 21:44:21 BRT 2017|received response |1251
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-25|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-26|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-8|Mon Sep 25 21:44:21 BRT 2017|received response |1326
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-27|Mon Sep 25 21:44:21 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-28|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-9|Mon Sep 25 21:44:22 BRT 2017|received response |1496
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-29|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-30|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-10|Mon Sep 25 21:44:22 BRT 2017|received response |1539
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-31|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-32|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-11|Mon Sep 25 21:44:22 BRT 2017|received response |1573
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-33|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-34|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-35|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-12|Mon Sep 25 21:44:22 BRT 2017|received response |1753
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-36|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-37|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-13|Mon Sep 25 21:44:22 BRT 2017|received response |1917
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-38|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-39|Mon Sep 25 21:44:22 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-14|Mon Sep 25 21:44:22 BRT 2017|received response |1975
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-40|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-41|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-15|Mon Sep 25 21:44:23 BRT 2017|received response |2062
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-42|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-43|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-16|Mon Sep 25 21:44:23 BRT 2017|received response |2129
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-44|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-45|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-17|Mon Sep 25 21:44:23 BRT 2017|received response |2178
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-46|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-18|Mon Sep 25 21:44:23 BRT 2017|received response |2225
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-47|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-48|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-19|Mon Sep 25 21:44:23 BRT 2017|received response |2252
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-49|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-50|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-20|Mon Sep 25 21:44:23 BRT 2017|received response |2310
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-51|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-21|Mon Sep 25 21:44:23 BRT 2017|received response |2340
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-52|Mon Sep 25 21:44:23 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-53|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-22|Mon Sep 25 21:44:24 BRT 2017|received response |2396
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-54|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-55|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-56|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-23|Mon Sep 25 21:44:24 BRT 2017|received response |2542
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-57|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-58|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-59|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-24|Mon Sep 25 21:44:24 BRT 2017|received response |2731
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-60|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-61|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-62|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-63|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-64|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-65|Mon Sep 25 21:44:24 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-66|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-67|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-68|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-69|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-70|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-25|Mon Sep 25 21:44:25 BRT 2017|received response |3511
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-71|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-72|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-73|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-26|Mon Sep 25 21:44:25 BRT 2017|received response |3767
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-74|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-75|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-76|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-77|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-78|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-79|Mon Sep 25 21:44:25 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-80|Mon Sep 25 21:44:26 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-27|Mon Sep 25 21:44:26 BRT 2017|received response |4149
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-81|Mon Sep 25 21:44:26 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-28|Mon Sep 25 21:44:26 BRT 2017|received response |4186
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-83|Mon Sep 25 21:44:26 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-29|Mon Sep 25 21:44:26 BRT 2017|received response |4217
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-85|Mon Sep 25 21:44:26 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-30|Mon Sep 25 21:44:26 BRT 2017|received response |4334
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-87|Mon Sep 25 21:44:26 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-31|Mon Sep 25 21:44:26 BRT 2017|received response |4385
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-89|Mon Sep 25 21:44:26 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-32|Mon Sep 25 21:44:26 BRT 2017|received response |4509
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-91|Mon Sep 25 21:44:26 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-33|Mon Sep 25 21:44:27 BRT 2017|received response |4724
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-95|Mon Sep 25 21:44:27 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-34|Mon Sep 25 21:44:27 BRT 2017|received response |4810
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-97|Mon Sep 25 21:44:27 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-35|Mon Sep 25 21:44:27 BRT 2017|received response |4855
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-98|Mon Sep 25 21:44:27 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-99|Mon Sep 25 21:44:27 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-36|Mon Sep 25 21:44:27 BRT 2017|received response |4899
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-100|Mon Sep 25 21:44:27 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-37|Mon Sep 25 21:44:27 BRT 2017|received response |4928
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-102|Mon Sep 25 21:44:27 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-38|Mon Sep 25 21:44:27 BRT 2017|received response |4975
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-104|Mon Sep 25 21:44:27 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-39|Mon Sep 25 21:44:27 BRT 2017|received response |5013
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-105|Mon Sep 25 21:44:27 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-40|Mon Sep 25 21:44:28 BRT 2017|received response |5072
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-107|Mon Sep 25 21:44:28 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-41|Mon Sep 25 21:44:28 BRT 2017|received response |5139
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-96|Mon Sep 25 21:44:28 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-42|Mon Sep 25 21:44:28 BRT 2017|received response |5216
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-110|Mon Sep 25 21:44:28 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-43|Mon Sep 25 21:44:28 BRT 2017|received response |5248
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-112|Mon Sep 25 21:44:28 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-44|Mon Sep 25 21:44:28 BRT 2017|received response |5299
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-113|Mon Sep 25 21:44:28 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-114|Mon Sep 25 21:44:28 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-45|Mon Sep 25 21:44:28 BRT 2017|received response |5441
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-103|Mon Sep 25 21:44:28 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-46|Mon Sep 25 21:44:28 BRT 2017|received response |5475
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-119|Mon Sep 25 21:44:29 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-47|Mon Sep 25 21:44:29 BRT 2017|received response |5519
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-120|Mon Sep 25 21:44:29 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-48|Mon Sep 25 21:44:29 BRT 2017|received response |5575
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-108|Mon Sep 25 21:44:29 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-49|Mon Sep 25 21:44:29 BRT 2017|received response |5754
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-125|Mon Sep 25 21:44:29 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-92|Mon Sep 25 21:44:30 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-50|Mon Sep 25 21:44:30 BRT 2017|received response |6530
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-136|Mon Sep 25 21:44:30 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-138|Mon Sep 25 21:44:30 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-51|Mon Sep 25 21:44:30 BRT 2017|received response |6783
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-140|Mon Sep 25 21:44:30 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-52|Mon Sep 25 21:44:30 BRT 2017|received response |6814
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-129|Mon Sep 25 21:44:30 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-53|Mon Sep 25 21:44:30 BRT 2017|received response |6991
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-145|Mon Sep 25 21:44:31 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-54|Mon Sep 25 21:44:31 BRT 2017|received response |7292
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-137|Mon Sep 25 21:44:31 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-151|Mon Sep 25 21:44:31 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-55|Mon Sep 25 21:44:31 BRT 2017|received response |7459
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-153|Mon Sep 25 21:44:31 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-56|Mon Sep 25 21:44:31 BRT 2017|received response |7718
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-144|Mon Sep 25 21:44:31 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-159|Mon Sep 25 21:44:32 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-57|Mon Sep 25 21:44:32 BRT 2017|received response |7883
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-160|Mon Sep 25 21:44:32 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-58|Mon Sep 25 21:44:32 BRT 2017|received response |8069
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-164|Mon Sep 25 21:44:32 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-59|Mon Sep 25 21:44:32 BRT 2017|received response |8140
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-127|Mon Sep 25 21:44:32 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-60|Mon Sep 25 21:44:32 BRT 2017|received response |8295
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-156|Mon Sep 25 21:44:32 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-61|Mon Sep 25 21:44:32 BRT 2017|received response |8351
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-171|Mon Sep 25 21:44:32 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-62|Mon Sep 25 21:44:33 BRT 2017|received response |8385
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-173|Mon Sep 25 21:44:33 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-63|Mon Sep 25 21:44:33 BRT 2017|received response |8545
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-176|Mon Sep 25 21:44:33 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-64|Mon Sep 25 21:44:33 BRT 2017|received response |8589
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-179|Mon Sep 25 21:44:33 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-65|Mon Sep 25 21:44:33 BRT 2017|received response |8723
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-66|Mon Sep 25 21:44:33 BRT 2017|received response |8875
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-170|Mon Sep 25 21:44:33 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-67|Mon Sep 25 21:44:34 BRT 2017|received response |8937
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-186|Mon Sep 25 21:44:34 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-94|Mon Sep 25 21:44:34 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-68|Mon Sep 25 21:44:34 BRT 2017|received response |8975
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-147|Mon Sep 25 21:44:34 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-69|Mon Sep 25 21:44:34 BRT 2017|received response |9028
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-190|Mon Sep 25 21:44:34 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-70|Mon Sep 25 21:44:34 BRT 2017|received response |9185
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-152|Mon Sep 25 21:44:34 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-71|Mon Sep 25 21:44:34 BRT 2017|received response |9234
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-194|Mon Sep 25 21:44:34 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-72|Mon Sep 25 21:44:34 BRT 2017|received response |9284
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-196|Mon Sep 25 21:44:34 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-73|Mon Sep 25 21:44:35 BRT 2017|received response |9437
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-199|Mon Sep 25 21:44:35 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-74|Mon Sep 25 21:44:35 BRT 2017|received response |9472
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-188|Mon Sep 25 21:44:35 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-75|Mon Sep 25 21:44:35 BRT 2017|received response |9537
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-203|Mon Sep 25 21:44:35 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-76|Mon Sep 25 21:44:35 BRT 2017|received response |9602
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-111|Mon Sep 25 21:44:35 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-77|Mon Sep 25 21:44:35 BRT 2017|received response |9789
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-78|Mon Sep 25 21:44:35 BRT 2017|received response |9948
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-197|Mon Sep 25 21:44:35 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-81|Mon Sep 25 21:44:36 BRT 2017|received response |9857
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-212|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-80|Mon Sep 25 21:44:36 BRT 2017|received response |10065
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-200|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-79|Mon Sep 25 21:44:36 BRT 2017|received response |10257
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-175|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-124|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-87|Mon Sep 25 21:44:36 BRT 2017|received response |9778
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-217|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-83|Mon Sep 25 21:44:36 BRT 2017|received response |10240
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-180|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-91|Mon Sep 25 21:44:36 BRT 2017|received response |9719
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-207|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-95|Mon Sep 25 21:44:36 BRT 2017|received response |9561
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-183|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-97|Mon Sep 25 21:44:36 BRT 2017|received response |9534
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-131|Mon Sep 25 21:44:36 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-98|Mon Sep 25 21:44:37 BRT 2017|received response |9579
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-133|Mon Sep 25 21:44:37 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-89|Mon Sep 25 21:44:37 BRT 2017|received response |10385
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-134|Mon Sep 25 21:44:37 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-99|Mon Sep 25 21:44:37 BRT 2017|received response |9741
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-104|Mon Sep 25 21:44:37 BRT 2017|received response |9488
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-191|Mon Sep 25 21:44:37 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-230|Mon Sep 25 21:44:37 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-231|Mon Sep 25 21:44:37 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-102|Mon Sep 25 21:44:37 BRT 2017|received response |9755
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-232|Mon Sep 25 21:44:37 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-107|Mon Sep 25 21:44:37 BRT 2017|received response |9529
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-233|Mon Sep 25 21:44:37 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-96|Mon Sep 25 21:44:37 BRT 2017|received response |9530
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-142|Mon Sep 25 21:44:37 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-110|Mon Sep 25 21:44:37 BRT 2017|received response |9547
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-112|Mon Sep 25 21:44:38 BRT 2017|received response |9516
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-238|Mon Sep 25 21:44:38 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-113|Mon Sep 25 21:44:38 BRT 2017|received response |9570
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-240|Mon Sep 25 21:44:38 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-103|Mon Sep 25 21:44:38 BRT 2017|received response |9461
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-148|Mon Sep 25 21:44:38 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-105|Mon Sep 25 21:44:38 BRT 2017|received response |10443
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-150|Mon Sep 25 21:44:38 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-244|Mon Sep 25 21:44:38 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-120|Mon Sep 25 21:44:38 BRT 2017|received response |9477
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-108|Mon Sep 25 21:44:38 BRT 2017|received response |9691
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-157|Mon Sep 25 21:44:38 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-114|Mon Sep 25 21:44:39 BRT 2017|received response |10625
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-255|Mon Sep 25 21:44:39 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-136|Mon Sep 25 21:44:39 BRT 2017|received response |9091
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-163|Mon Sep 25 21:44:39 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-257|Mon Sep 25 21:44:39 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-140|Mon Sep 25 21:44:39 BRT 2017|received response |8870
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-218|Mon Sep 25 21:44:39 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-129|Mon Sep 25 21:44:39 BRT 2017|received response |8886
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-220|Mon Sep 25 21:44:39 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-92|Mon Sep 25 21:44:39 BRT 2017|received response |9739
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-248|Mon Sep 25 21:44:39 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-168|Mon Sep 25 21:44:39 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-137|Mon Sep 25 21:44:40 BRT 2017|received response |8629
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-153|Mon Sep 25 21:44:40 BRT 2017|received response |8615
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-254|Mon Sep 25 21:44:40 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-144|Mon Sep 25 21:44:40 BRT 2017|received response |8406
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-270|Mon Sep 25 21:44:40 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-160|Mon Sep 25 21:44:40 BRT 2017|received response |8299
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-258|Mon Sep 25 21:44:40 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-125|Mon Sep 25 21:44:40 BRT 2017|received response |11142
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-274|Mon Sep 25 21:44:40 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-181|Mon Sep 25 21:44:40 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-127|Mon Sep 25 21:44:40 BRT 2017|received response |8137
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-234|Mon Sep 25 21:44:40 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-156|Mon Sep 25 21:44:40 BRT 2017|received response |7994
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-277|Mon Sep 25 21:44:40 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-171|Mon Sep 25 21:44:40 BRT 2017|received response |7973
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-237|Mon Sep 25 21:44:40 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-151|Mon Sep 25 21:44:41 BRT 2017|received response |9618
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-176|Mon Sep 25 21:44:41 BRT 2017|received response |7910
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-241|Mon Sep 25 21:44:41 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-82|Mon Sep 25 21:44:41 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-85|Mon Sep 25 21:44:41 BRT 2017|received response |14892
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-138|Mon Sep 25 21:44:41 BRT 2017|received response |11011
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-286|Mon Sep 25 21:44:41 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-86|Mon Sep 25 21:44:41 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-273|Mon Sep 25 21:44:41 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-179|Mon Sep 25 21:44:41 BRT 2017|received response |8088
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-245|Mon Sep 25 21:44:41 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-186|Mon Sep 25 21:44:41 BRT 2017|received response |7653
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-289|Mon Sep 25 21:44:41 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-147|Mon Sep 25 21:44:41 BRT 2017|received response |7736
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-250|Mon Sep 25 21:44:41 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-170|Mon Sep 25 21:44:42 BRT 2017|received response |8140
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-280|Mon Sep 25 21:44:42 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-152|Mon Sep 25 21:44:42 BRT 2017|received response |7640
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-282|Mon Sep 25 21:44:42 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-194|Mon Sep 25 21:44:42 BRT 2017|received response |7618
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-297|Mon Sep 25 21:44:42 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-196|Mon Sep 25 21:44:42 BRT 2017|received response |7693
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-300|Mon Sep 25 21:44:42 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-287|Mon Sep 25 21:44:42 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-199|Mon Sep 25 21:44:42 BRT 2017|received response |7684
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-302|Mon Sep 25 21:44:42 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-94|Mon Sep 25 21:44:42 BRT 2017|received response |8694
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-291|Mon Sep 25 21:44:42 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-210|Mon Sep 25 21:44:42 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-159|Mon Sep 25 21:44:42 BRT 2017|received response |10896
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-111|Mon Sep 25 21:44:43 BRT 2017|received response |7672
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-213|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-164|Mon Sep 25 21:44:43 BRT 2017|received response |10753
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-296|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-197|Mon Sep 25 21:44:43 BRT 2017|received response |7446
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-216|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-188|Mon Sep 25 21:44:43 BRT 2017|received response |8292
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-272|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-313|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-219|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-200|Mon Sep 25 21:44:43 BRT 2017|received response |7491
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-314|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-175|Mon Sep 25 21:44:43 BRT 2017|received response |7485
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-221|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-212|Mon Sep 25 21:44:43 BRT 2017|received response |7861
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-223|Mon Sep 25 21:44:43 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-180|Mon Sep 25 21:44:44 BRT 2017|received response |7442
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-306|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-207|Mon Sep 25 21:44:44 BRT 2017|received response |7481
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-226|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-281|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-183|Mon Sep 25 21:44:44 BRT 2017|received response |7454
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-131|Mon Sep 25 21:44:44 BRT 2017|received response |7471
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-311|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-133|Mon Sep 25 21:44:44 BRT 2017|received response |7448
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-126|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-326|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-288|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-134|Mon Sep 25 21:44:44 BRT 2017|received response |7493
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-327|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-190|Mon Sep 25 21:44:44 BRT 2017|received response |10451
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-290|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-191|Mon Sep 25 21:44:44 BRT 2017|received response |7498
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-292|Mon Sep 25 21:44:44 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-232|Mon Sep 25 21:44:45 BRT 2017|received response |7507
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-319|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-294|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-233|Mon Sep 25 21:44:45 BRT 2017|received response |7535
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-321|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-142|Mon Sep 25 21:44:45 BRT 2017|received response |7508
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-242|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-124|Mon Sep 25 21:44:45 BRT 2017|received response |9060
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-338|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-238|Mon Sep 25 21:44:45 BRT 2017|received response |7512
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-301|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-240|Mon Sep 25 21:44:45 BRT 2017|received response |7511
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-246|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-148|Mon Sep 25 21:44:45 BRT 2017|received response |7509
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-343|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-230|Mon Sep 25 21:44:45 BRT 2017|received response |8482
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-331|Mon Sep 25 21:44:45 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-203|Mon Sep 25 21:44:46 BRT 2017|received response |10687
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-252|Mon Sep 25 21:44:46 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-157|Mon Sep 25 21:44:46 BRT 2017|received response |7291
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-335|Mon Sep 25 21:44:46 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-255|Mon Sep 25 21:44:46 BRT 2017|received response |7046
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-350|Mon Sep 25 21:44:46 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-163|Mon Sep 25 21:44:46 BRT 2017|received response |7056
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-352|Mon Sep 25 21:44:46 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-244|Mon Sep 25 21:44:46 BRT 2017|received response |8059
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-259|Mon Sep 25 21:44:46 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-257|Mon Sep 25 21:44:46 BRT 2017|received response |7253
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-154|Mon Sep 25 21:44:46 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-248|Mon Sep 25 21:44:46 BRT 2017|received response |7011
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-357|Mon Sep 25 21:44:46 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-168|Mon Sep 25 21:44:46 BRT 2017|received response |7129
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-264|Mon Sep 25 21:44:46 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-254|Mon Sep 25 21:44:47 BRT 2017|received response |6844
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-360|Mon Sep 25 21:44:47 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-347|Mon Sep 25 21:44:47 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-270|Mon Sep 25 21:44:47 BRT 2017|received response |6817
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-268|Mon Sep 25 21:44:47 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-231|Mon Sep 25 21:44:47 BRT 2017|received response |9824
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-322|Mon Sep 25 21:44:47 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-274|Mon Sep 25 21:44:47 BRT 2017|received response |6799
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-365|Mon Sep 25 21:44:47 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-234|Mon Sep 25 21:44:47 BRT 2017|received response |6846
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-354|Mon Sep 25 21:44:47 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-277|Mon Sep 25 21:44:47 BRT 2017|received response |6855
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-237|Mon Sep 25 21:44:47 BRT 2017|received response |6853
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-371|Mon Sep 25 21:44:47 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-220|Mon Sep 25 21:44:47 BRT 2017|received response |8275
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-279|Mon Sep 25 21:44:48 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-82|Mon Sep 25 21:44:48 BRT 2017|received response |6807
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-172|Mon Sep 25 21:44:48 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-241|Mon Sep 25 21:44:48 BRT 2017|received response |6926
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-286|Mon Sep 25 21:44:48 BRT 2017|received response |6847
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-363|Mon Sep 25 21:44:48 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-245|Mon Sep 25 21:44:48 BRT 2017|received response |6850
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-178|Mon Sep 25 21:44:48 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-289|Mon Sep 25 21:44:48 BRT 2017|received response |6854
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-341|Mon Sep 25 21:44:48 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-250|Mon Sep 25 21:44:48 BRT 2017|received response |6755
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-369|Mon Sep 25 21:44:48 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-280|Mon Sep 25 21:44:48 BRT 2017|received response |6769
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-385|Mon Sep 25 21:44:48 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-282|Mon Sep 25 21:44:48 BRT 2017|received response |6753
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-345|Mon Sep 25 21:44:48 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-373|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-297|Mon Sep 25 21:44:49 BRT 2017|received response |6748
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-218|Mon Sep 25 21:44:49 BRT 2017|received response |9678
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-390|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-302|Mon Sep 25 21:44:49 BRT 2017|received response |6569
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-391|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-210|Mon Sep 25 21:44:49 BRT 2017|received response |6576
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-299|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-291|Mon Sep 25 21:44:49 BRT 2017|received response |6698
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-381|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-213|Mon Sep 25 21:44:49 BRT 2017|received response |6555
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-355|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-296|Mon Sep 25 21:44:49 BRT 2017|received response |6547
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-397|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-216|Mon Sep 25 21:44:49 BRT 2017|received response |6544
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-305|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-386|Mon Sep 25 21:44:49 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-272|Mon Sep 25 21:44:50 BRT 2017|received response |6536
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-314|Mon Sep 25 21:44:50 BRT 2017|received response |6507
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-389|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-221|Mon Sep 25 21:44:50 BRT 2017|received response |6537
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-403|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-202|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-223|Mon Sep 25 21:44:50 BRT 2017|received response |6510
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-392|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-306|Mon Sep 25 21:44:50 BRT 2017|received response |6507
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-393|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-367|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-281|Mon Sep 25 21:44:50 BRT 2017|received response |6509
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-368|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-226|Mon Sep 25 21:44:50 BRT 2017|received response |6635
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-370|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-311|Mon Sep 25 21:44:50 BRT 2017|received response |6498
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-317|Mon Sep 25 21:44:50 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-126|Mon Sep 25 21:44:51 BRT 2017|received response |6468
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-412|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-327|Mon Sep 25 21:44:51 BRT 2017|received response |6471
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-401|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-290|Mon Sep 25 21:44:51 BRT 2017|received response |6455
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-415|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-378|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-292|Mon Sep 25 21:44:51 BRT 2017|received response |6436
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-417|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-294|Mon Sep 25 21:44:51 BRT 2017|received response |6385
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-380|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-321|Mon Sep 25 21:44:51 BRT 2017|received response |6365
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-407|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-420|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-242|Mon Sep 25 21:44:51 BRT 2017|received response |6377
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-328|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-338|Mon Sep 25 21:44:51 BRT 2017|received response |6378
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-222|Mon Sep 25 21:44:51 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-300|Mon Sep 25 21:44:51 BRT 2017|received response |9386
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-224|Mon Sep 25 21:44:52 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-246|Mon Sep 25 21:44:52 BRT 2017|received response |6618
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-416|Mon Sep 25 21:44:52 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-229|Mon Sep 25 21:44:52 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-343|Mon Sep 25 21:44:52 BRT 2017|received response |6628
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-418|Mon Sep 25 21:44:52 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-331|Mon Sep 25 21:44:52 BRT 2017|received response |6746
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-421|Mon Sep 25 21:44:52 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-319|Mon Sep 25 21:44:52 BRT 2017|received response |7815
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-344|Mon Sep 25 21:44:52 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-335|Mon Sep 25 21:44:53 BRT 2017|received response |6885
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-441|Mon Sep 25 21:44:53 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-350|Mon Sep 25 21:44:53 BRT 2017|received response |7022
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-404|Mon Sep 25 21:44:53 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-405|Mon Sep 25 21:44:53 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-352|Mon Sep 25 21:44:53 BRT 2017|received response |7007
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-432|Mon Sep 25 21:44:53 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-288|Mon Sep 25 21:44:53 BRT 2017|received response |8982
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-447|Mon Sep 25 21:44:53 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-154|Mon Sep 25 21:44:53 BRT 2017|received response |7035
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-247|Mon Sep 25 21:44:53 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-357|Mon Sep 25 21:44:53 BRT 2017|received response |7121
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-264|Mon Sep 25 21:44:54 BRT 2017|received response |7125
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-440|Mon Sep 25 21:44:54 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-360|Mon Sep 25 21:44:54 BRT 2017|received response |7249
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-444|Mon Sep 25 21:44:54 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-268|Mon Sep 25 21:44:54 BRT 2017|received response |7220
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-445|Mon Sep 25 21:44:54 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-458|Mon Sep 25 21:44:54 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-322|Mon Sep 25 21:44:54 BRT 2017|received response |7252
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-365|Mon Sep 25 21:44:54 BRT 2017|received response |7255
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-449|Mon Sep 25 21:44:54 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-259|Mon Sep 25 21:44:54 BRT 2017|received response |8222
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-262|Mon Sep 25 21:44:54 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-181|Mon Sep 25 21:44:54 BRT 2017|received response |14278
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-464|Mon Sep 25 21:44:54 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-371|Mon Sep 25 21:44:55 BRT 2017|received response |7328
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-376|Mon Sep 25 21:44:55 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-347|Mon Sep 25 21:44:55 BRT 2017|received response |8193
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-456|Mon Sep 25 21:44:55 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-457|Mon Sep 25 21:44:55 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-172|Mon Sep 25 21:44:55 BRT 2017|received response |7456
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-471|Mon Sep 25 21:44:55 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-459|Mon Sep 25 21:44:55 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-326|Mon Sep 25 21:44:55 BRT 2017|received response |11077
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-461|Mon Sep 25 21:44:55 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-363|Mon Sep 25 21:44:55 BRT 2017|received response |7436
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-462|Mon Sep 25 21:44:55 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-178|Mon Sep 25 21:44:55 BRT 2017|received response |7418
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-476|Mon Sep 25 21:44:55 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-219|Mon Sep 25 21:44:56 BRT 2017|received response |12399
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-477|Mon Sep 25 21:44:56 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-369|Mon Sep 25 21:44:56 BRT 2017|received response |7589
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-443|Mon Sep 25 21:44:56 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-283|Mon Sep 25 21:44:56 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-469|Mon Sep 25 21:44:56 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-394|Mon Sep 25 21:44:56 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-385|Mon Sep 25 21:44:56 BRT 2017|received response |7923
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-345|Mon Sep 25 21:44:57 BRT 2017|received response |8153
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-454|Mon Sep 25 21:44:57 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-252|Mon Sep 25 21:44:57 BRT 2017|received response |11282
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-483|Mon Sep 25 21:44:57 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-390|Mon Sep 25 21:44:57 BRT 2017|received response |8240
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-373|Mon Sep 25 21:44:57 BRT 2017|received response |8617
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-486|Mon Sep 25 21:44:57 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-460|Mon Sep 25 21:44:57 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-299|Mon Sep 25 21:44:57 BRT 2017|received response |8262
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-488|Mon Sep 25 21:44:57 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-287|Mon Sep 25 21:44:57 BRT 2017|received response |15299
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-463|Mon Sep 25 21:44:57 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-355|Mon Sep 25 21:44:58 BRT 2017|received response |8405
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-413|Mon Sep 25 21:44:58 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-397|Mon Sep 25 21:44:58 BRT 2017|received response |8416
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-467|Mon Sep 25 21:44:58 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-510|Mon Sep 25 21:44:58 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-305|Mon Sep 25 21:44:58 BRT 2017|received response |8517
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-499|Mon Sep 25 21:44:58 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-386|Mon Sep 25 21:44:58 BRT 2017|received response |8749
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-500|Mon Sep 25 21:44:58 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-389|Mon Sep 25 21:44:58 BRT 2017|received response |8634
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-422|Mon Sep 25 21:44:58 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-403|Mon Sep 25 21:44:58 BRT 2017|received response |8638
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-516|Mon Sep 25 21:44:58 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-392|Mon Sep 25 21:44:59 BRT 2017|received response |8618
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-505|Mon Sep 25 21:44:59 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-393|Mon Sep 25 21:44:59 BRT 2017|received response |8635
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-427|Mon Sep 25 21:44:59 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-368|Mon Sep 25 21:44:59 BRT 2017|received response |8625
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-481|Mon Sep 25 21:44:59 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-370|Mon Sep 25 21:44:59 BRT 2017|received response |8621
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-323|Mon Sep 25 21:44:59 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-317|Mon Sep 25 21:44:59 BRT 2017|received response |8718
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-434|Mon Sep 25 21:44:59 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-412|Mon Sep 25 21:44:59 BRT 2017|received response |8712
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-115|Mon Sep 25 21:44:59 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-528|Mon Sep 25 21:44:59 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-401|Mon Sep 25 21:44:59 BRT 2017|received response |8837
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-530|Mon Sep 25 21:44:59 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-415|Mon Sep 25 21:45:00 BRT 2017|received response |8942
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-121|Mon Sep 25 21:45:00 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-378|Mon Sep 25 21:45:00 BRT 2017|received response |8966
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-535|Mon Sep 25 21:45:00 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-380|Mon Sep 25 21:45:00 BRT 2017|received response |8947
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-537|Mon Sep 25 21:45:00 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-407|Mon Sep 25 21:45:00 BRT 2017|received response |8961
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-540|Mon Sep 25 21:45:00 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-328|Mon Sep 25 21:45:00 BRT 2017|received response |9098
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-502|Mon Sep 25 21:45:00 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-222|Mon Sep 25 21:45:00 BRT 2017|received response |9103
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-544|Mon Sep 25 21:45:00 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-224|Mon Sep 25 21:45:01 BRT 2017|received response |9064
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-531|Mon Sep 25 21:45:01 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-416|Mon Sep 25 21:45:01 BRT 2017|received response |8869
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-533|Mon Sep 25 21:45:01 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-420|Mon Sep 25 21:45:01 BRT 2017|received response |9790
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-351|Mon Sep 25 21:45:01 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-421|Mon Sep 25 21:45:01 BRT 2017|received response |8818
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-551|Mon Sep 25 21:45:01 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-344|Mon Sep 25 21:45:01 BRT 2017|received response |8729
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-553|Mon Sep 25 21:45:01 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-441|Mon Sep 25 21:45:01 BRT 2017|received response |8610
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-141|Mon Sep 25 21:45:01 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-515|Mon Sep 25 21:45:01 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-229|Mon Sep 25 21:45:01 BRT 2017|received response |9491
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-543|Mon Sep 25 21:45:01 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-432|Mon Sep 25 21:45:01 BRT 2017|received response |8499
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-359|Mon Sep 25 21:45:02 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-517|Mon Sep 25 21:45:02 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-447|Mon Sep 25 21:45:02 BRT 2017|received response |8496
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-247|Mon Sep 25 21:45:02 BRT 2017|received response |8462
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-520|Mon Sep 25 21:45:02 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-301|Mon Sep 25 21:45:02 BRT 2017|received response |16705
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-522|Mon Sep 25 21:45:02 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-440|Mon Sep 25 21:45:02 BRT 2017|received response |8405
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-470|Mon Sep 25 21:45:02 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-417|Mon Sep 25 21:45:02 BRT 2017|received response |11236
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-472|Mon Sep 25 21:45:02 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-445|Mon Sep 25 21:45:02 BRT 2017|received response |8272
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-569|Mon Sep 25 21:45:02 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-354|Mon Sep 25 21:45:02 BRT 2017|received response |15252
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-556|Mon Sep 25 21:45:02 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-449|Mon Sep 25 21:45:03 BRT 2017|received response |8230
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-558|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-262|Mon Sep 25 21:45:03 BRT 2017|received response |8317
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-375|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-464|Mon Sep 25 21:45:03 BRT 2017|received response |8318
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-161|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-377|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-376|Mon Sep 25 21:45:03 BRT 2017|received response |8200
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-456|Mon Sep 25 21:45:03 BRT 2017|received response |8217
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-578|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-471|Mon Sep 25 21:45:03 BRT 2017|received response |8115
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-382|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-461|Mon Sep 25 21:45:03 BRT 2017|received response |8093
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-384|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-583|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-462|Mon Sep 25 21:45:03 BRT 2017|received response |8126
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-570|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-490|Mon Sep 25 21:45:03 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-476|Mon Sep 25 21:45:04 BRT 2017|received response |8104
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-571|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-477|Mon Sep 25 21:45:04 BRT 2017|received response |8124
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-493|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-443|Mon Sep 25 21:45:04 BRT 2017|received response |7955
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-494|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-283|Mon Sep 25 21:45:04 BRT 2017|received response |8104
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-496|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-454|Mon Sep 25 21:45:04 BRT 2017|received response |7387
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-498|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-444|Mon Sep 25 21:45:04 BRT 2017|received response |10260
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-580|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-458|Mon Sep 25 21:45:04 BRT 2017|received response |10295
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-182|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-597|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-486|Mon Sep 25 21:45:04 BRT 2017|received response |7302
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-584|Mon Sep 25 21:45:04 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-488|Mon Sep 25 21:45:05 BRT 2017|received response |7277
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-586|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-463|Mon Sep 25 21:45:05 BRT 2017|received response |7288
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-587|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-413|Mon Sep 25 21:45:05 BRT 2017|received response |7178
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-589|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-467|Mon Sep 25 21:45:05 BRT 2017|received response |7186
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-604|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-404|Mon Sep 25 21:45:05 BRT 2017|received response |12154
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-192|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-500|Mon Sep 25 21:45:05 BRT 2017|received response |6953
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-193|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-173|Mon Sep 25 21:45:05 BRT 2017|received response |32644
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-195|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-514|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-516|Mon Sep 25 21:45:05 BRT 2017|received response |6966
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-410|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-411|Mon Sep 25 21:45:05 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-505|Mon Sep 25 21:45:06 BRT 2017|received response |6956
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-599|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-427|Mon Sep 25 21:45:06 BRT 2017|received response |7013
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-573|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-481|Mon Sep 25 21:45:06 BRT 2017|received response |7004
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-575|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-323|Mon Sep 25 21:45:06 BRT 2017|received response |7020
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-618|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-499|Mon Sep 25 21:45:06 BRT 2017|received response |7903
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-419|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-115|Mon Sep 25 21:45:06 BRT 2017|received response |6890
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-621|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-582|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-530|Mon Sep 25 21:45:06 BRT 2017|received response |6824
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-209|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-121|Mon Sep 25 21:45:06 BRT 2017|received response |6748
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-612|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-585|Mon Sep 25 21:45:06 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-535|Mon Sep 25 21:45:07 BRT 2017|received response |6768
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-426|Mon Sep 25 21:45:07 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-537|Mon Sep 25 21:45:07 BRT 2017|received response |6760
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-214|Mon Sep 25 21:45:07 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-428|Mon Sep 25 21:45:07 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-367|Mon Sep 25 21:45:07 BRT 2017|received response |17005
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-528|Mon Sep 25 21:45:07 BRT 2017|received response |7891
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-435|Mon Sep 25 21:45:07 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-541|Mon Sep 25 21:45:07 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-436|Mon Sep 25 21:45:07 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-544|Mon Sep 25 21:45:07 BRT 2017|received response |6959
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-625|Mon Sep 25 21:45:08 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-531|Mon Sep 25 21:45:08 BRT 2017|received response |7119
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-547|Mon Sep 25 21:45:08 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-555|Mon Sep 25 21:45:08 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-651|Mon Sep 25 21:45:09 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-533|Mon Sep 25 21:45:09 BRT 2017|received response |7974
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-653|Mon Sep 25 21:45:09 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-568|Mon Sep 25 21:45:09 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-664|Mon Sep 25 21:45:10 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-635|Mon Sep 25 21:45:10 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-265|Mon Sep 25 21:45:11 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-351|Mon Sep 25 21:45:11 BRT 2017|received response |9721
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-479|Mon Sep 25 21:45:11 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-276|Mon Sep 25 21:45:11 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-690|Mon Sep 25 21:45:12 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-662|Mon Sep 25 21:45:12 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-613|Mon Sep 25 21:45:13 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-303|Mon Sep 25 21:45:13 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-703|Mon Sep 25 21:45:14 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-551|Mon Sep 25 21:45:14 BRT 2017|received response |12715
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-680|Mon Sep 25 21:45:14 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-714|Mon Sep 25 21:45:14 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-318|Mon Sep 25 21:45:15 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-540|Mon Sep 25 21:45:15 BRT 2017|received response |14444
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-717|Mon Sep 25 21:45:15 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-141|Mon Sep 25 21:45:15 BRT 2017|received response |13521
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-720|Mon Sep 25 21:45:15 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-649|Mon Sep 25 21:45:15 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-545|Mon Sep 25 21:45:16 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-553|Mon Sep 25 21:45:16 BRT 2017|received response |14713
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-337|Mon Sep 25 21:45:16 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-741|Mon Sep 25 21:45:16 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-756|Mon Sep 25 21:45:17 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-359|Mon Sep 25 21:45:17 BRT 2017|received response |15322
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-562|Mon Sep 25 21:45:17 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-517|Mon Sep 25 21:45:17 BRT 2017|received response |15728
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-726|Mon Sep 25 21:45:17 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-754|Mon Sep 25 21:45:17 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-770|Mon Sep 25 21:45:18 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-520|Mon Sep 25 21:45:18 BRT 2017|received response |15991
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-574|Mon Sep 25 21:45:18 BRT 2017|request sent
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-522|Mon Sep 25 21:45:18 BRT 2017|received response |15961
+br.com.camiloporto.scalability.client.ClientRequest|RequestThread-734|Mon Sep 25 21:45:18 BRT 2017|request sent

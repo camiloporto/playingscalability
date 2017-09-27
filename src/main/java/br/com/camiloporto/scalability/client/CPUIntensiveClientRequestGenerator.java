@@ -4,25 +4,22 @@ package br.com.camiloporto.scalability.client;
 import br.com.camiloporto.scalability.tasks.Task;
 
 import java.io.IOException;
-import java.util.Date;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 import java.util.logging.Logger;
 
 /**
  * Created by camiloporto on 9/10/17.
  */
-public class ClientRequestGenerator {
+public class CPUIntensiveClientRequestGenerator {
 
-    private static final Logger logger = Logger.getLogger(ClientRequestGenerator.class.getName());
+    private static final Logger logger = Logger.getLogger(CPUIntensiveClientRequestGenerator.class.getName());
 
     public static void main(String[] args) throws IOException {
 
         long firingTime = Long.valueOf(args[0]);
-        new ClientRequestGenerator().generateClientRequests(firingTime * 60 * 1000);
+        new CPUIntensiveClientRequestGenerator().generateClientRequests(firingTime * 60 * 1000);
 
     }
 

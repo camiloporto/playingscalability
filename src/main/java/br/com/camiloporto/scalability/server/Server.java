@@ -21,7 +21,7 @@ public class Server implements Runnable {
 
     public static void main(String[] args) {
         Server server = new Server(9090);
-        Thread serverThread = new Thread(server);
+        Thread serverThread = new Thread(server, "ServerThread");
         serverThread.start();
     }
 
@@ -33,6 +33,7 @@ public class Server implements Runnable {
     @Override
     public void run() {
         stop = false;
+        int tNum = 0;
 //        ExecutorService threadPool = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors() + 1);
         try {
             this.serverSocket = new ServerSocket(port);
@@ -40,7 +41,8 @@ public class Server implements Runnable {
                 Socket clientSocket = this.serverSocket.accept();
                 RequestHandler requestHandler = new RequestHandler(clientSocket);
                 //FIXME tag two commits with different experiment versions
-                new Thread(requestHandler).start();
+                requestHandler.run();
+//                new Thread(requestHandler, "RequestHandlerThread-" + (tNum++)).start();
 //                threadPool.submit(requestHandler);
             }
         }

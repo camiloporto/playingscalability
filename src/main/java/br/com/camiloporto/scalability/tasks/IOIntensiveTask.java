@@ -31,7 +31,8 @@ public class IOIntensiveTask implements Task {
             }
             in.close();
             out.close();
-            return byteArray.toByteArray();
+            int responseLength = byteArray.toByteArray().length;
+            return Integer.toString(responseLength).getBytes();
 
         } catch (MalformedURLException e) {
             e.printStackTrace();

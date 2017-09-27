@@ -1,10 +1,9 @@
 package br.com.camiloporto.scalability.server;
 
-import br.com.camiloporto.scalability.client.ClientRequestGenerator;
+import br.com.camiloporto.scalability.client.CPUIntensiveClientRequestGenerator;
 import org.junit.Test;
 
 import java.io.*;
-import java.net.Socket;
 
 /**
  * Created by camiloporto on 9/7/17.
@@ -20,7 +19,7 @@ public class ServerTest {
         Thread serverThread = new Thread(server);
         serverThread.start();
 
-        new ClientRequestGenerator().generateClientRequests(100);
+        new CPUIntensiveClientRequestGenerator().generateClientRequests(100);
 
     }
 
